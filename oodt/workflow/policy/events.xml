@@ -18,4 +18,8 @@
 <!--
   TODO: Add some examples
 -->
+<event name="fileconcatenator-pge">
+    <workflow id="urn:oodt:FileConcatenatorWorkflow"/>
+</event>
+
 </cas:workflowevents>

@@ -33,4 +33,8 @@ the License.
 <!--
   TODO: Add some documentation
 -->
+<workflow id="urn:oodt:FileConcatenatorWorkflow">
+  <field name="RunID"/>
+</workflow>
+
 </cas:winstfields>

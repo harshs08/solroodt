@@ -65,3 +65,9 @@ release.properties
 #data#
 data/
 
+#pid files#
+*.pid
+
+#session files#
+*.ser
+
