@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.3
+Created-By: 1.7.0_45-b18 (Oracle Corporation)
+Extension-Name: org.apache.solr
+Specification-Title: Apache Solr Search Server
+Specification-Version: 6.0.0
+Specification-Vendor: The Apache Software Foundation
+Implementation-Title: org.apache.solr
+Implementation-Version: 6.0.0-SNAPSHOT Unversioned directory - harshsi
+ ngh - 2014-10-28 13:22:22
+Implementation-Vendor: The Apache Software Foundation
+X-Compile-Source-JDK: 1.7
+X-Compile-Target-JDK: 1.7
+
